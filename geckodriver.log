@@ -1,0 +1,47 @@
+1700945430617	geckodriver	INFO	Listening on 127.0.0.1:54435
+1700945433723	mozrunner::runner	INFO	Running command: "C:\\Users\\UmeshKanojiya\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UMESHK~1\\AppData\\Local\\Temp\\rust_mozprofile3q89RJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700945434570	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700945434664	Marionette	INFO	Listening on port 54444
+WebDriver BiDi listening on ws://127.0.0.1:54436
+Read port: 54444
+1700945434869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54436/devtools/browser/0204c50e-e805-49d9-a99f-74a930985b18
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1700945462983	Marionette	INFO	Stopped listening on port 54444
+JavaScript warning: https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80, line 121: Script terminated by timeout at:
+_valueExpr/i._valueComparer@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:121:331315
+_dataItemPosition@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:121:331451
+_selected@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:121:336340
+_render@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:121:336095
+setOptions@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:121:328022
+setOptions@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:121:454311
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:1167:63
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
+1700945464828	geckodriver	INFO	Listening on 127.0.0.1:54488
+1700945467888	mozrunner::runner	INFO	Running command: "C:\\Users\\UmeshKanojiya\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UMESHK~1\\AppData\\Local\\Temp\\rust_mozprofileQU7vRy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700945468274	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700945468345	Marionette	INFO	Listening on port 54496
+WebDriver BiDi listening on ws://127.0.0.1:54489
+Read port: 54496
+1700945468578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54489/devtools/browser/cbff880f-57d8-49a5-907c-bcc7567ae6a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1700945475520	Marionette	INFO	Stopped listening on port 54496
+JavaScript warning: https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80, line 25: Script terminated by timeout at:
+now@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:25:38011
+nu@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:25:8763
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
